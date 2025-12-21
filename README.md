@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rishabh Agarwal
 
 🚀 Aspiring Full-Stack Web Developer | MERN Stack  
-🎓 Student | Passionate about building real-world web applications
+🎓 Student at Indian Institute of Information Technology Una | Passionate about building real-world web applications
 
 ---
 
@@ -68,8 +68,7 @@
 - Real-time chat functionality
 - User-friendly interface
 
-**Tech:** JavaScript, Node.js
-
+**Tech:**React , MongoDB, Socket.IO, Node.Js, Express.js
 ---
 
 ## 📈 GitHub Stats
@@ -78,7 +77,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: *(add your LinkedIn link here)*
-- Portfolio: *(optional if you have one)*
+- LinkedIn: https://linkedin.com/in/rishabh23240
 
 ⭐ Feel free to explore my repositories and connect!
