@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi 👋, I'm Rishabh Agarwal
 
-<!--
-**Rishabh2724/Rishabh2724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Web Developer | MERN Stack  
+🎓 Student | Passionate about building real-world web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- I build **modern, scalable web applications**
+- Strong interest in **Full-Stack Development**
+- Experience with **authentication, payments, APIs & deployment**
+- Currently looking for **Web Developer / Full-Stack Internships**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js, Next.js
+
+**Backend**
+- Node.js, Express.js
+- MongoDB, Mongoose
+
+**Auth & Payments**
+- Clerk Authentication
+- Stripe Payment Gateway
+
+**Tools & Platforms**
+- Git & GitHub
+- Vercel, Render
+- REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 QuickStay – Hotel Booking Platform
+🔗 Live Demo: https://quick-stay-full-stack-qa9g.vercel.app/  
+📂 GitHub: https://github.com/Rishabh2724/QuickStay-FullStack
+
+**Features:**
+- User authentication using **Clerk**
+- Secure hotel booking system
+- **Stripe payment integration**
+- Admin dashboard for hotel & booking management
+- Fully responsive UI
+
+**Tech:** React, Node.js, Express, MongoDB, Clerk, Stripe
+
+---
+
+### 📰 News App
+📂 GitHub: https://github.com/Rishabh2724/newsapp
+
+- Fetches real-time news using News API
+- Category-based news filtering
+- Clean and responsive UI
+
+**Tech:** React, JavaScript, REST API
+
+---
+
+### 💬 Chatty – Chat Application
+📂 GitHub: https://github.com/Rishabh2724/chatty
+
+- Real-time chat functionality
+- User-friendly interface
+
+**Tech:** JavaScript, Node.js
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh2724&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: *(add your LinkedIn link here)*
+- Portfolio: *(optional if you have one)*
+
+⭐ Feel free to explore my repositories and connect!
