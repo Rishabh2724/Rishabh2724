@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rishabh Agarwal
 
-🚀 Aspiring Full-Stack Web Developer | MERN Stack  
+🚀 Full-Stack Web Developer | MERN Stack  
 🎓 Student at Indian Institute of Information Technology Una | Passionate about building real-world web applications
 
 ---
